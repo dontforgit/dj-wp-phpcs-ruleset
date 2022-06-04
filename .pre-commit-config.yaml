@@ -9,3 +9,5 @@ repos:
         -   id: check-added-large-files
             stages: [ commit, push ]
 # Test 1 - No install.
+# Test 2 - pre-commit install
+# Test 3 - pre-commit install -t pre-push
